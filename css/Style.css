@@ -1,0 +1,28 @@
+#menu{
+    height: 90px;
+    background: #000;
+    padding: auto;
+}
+#menu .navbar-header a{
+    padding-top: 5px;
+}
+#men li a{
+    color: #ffcc33;
+    font-size: 1.5em;
+    font-family: serif;
+    transition-duration: 1s;
+    margin-top: 15px;
+}
+#men li a:hover{    
+    font-family: serif;
+    text-decoration: underline;
+    transition-duration: 1s;
+}
+#bus{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+.parra{
+    text-align: center;
+}
