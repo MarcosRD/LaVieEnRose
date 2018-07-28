@@ -44,26 +44,26 @@
 						<div class="product-inner">
 							<div class="col-md-4 col-md-push-8 animate-box">
 								<div class="desc">
-									<h3><a href="#">Canastas</a></h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<h3><a href="#">Cajas de regalo</a></h3>
+									<p>Para las fiestas y salir de los regalos tipocos, ua de estas cajas pueden dejar sorprendido al festejado</p>
 								</div>
 							</div>
 							<div class="col-md-8 col-md-pull-4 animate-box">
 								<figure>
-									<a href="#"><img class="img-responsive" src="../assets/images/product-3.jpg" alt="product"></a>
+									<a href="#"><img class="img-responsive" src="../assets/images/cajaBlanca1.jpg" alt="product"></a>
 								</figure>
 							</div>
 						</div>
 						<div class="product-inner">
 							<div class="col-md-4 animate-box">
 								<div class="desc">
-									<h3><a href="#">Product Title</a></h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<h3><a href="#">Centos de mesa</a></h3>
+									<p>Tenemos una variedad de increibles centros de mesa que pueden dejar sorprendidos a tus invitados y darles una vista espectacular a tus fiestas o eventos.</p>
 								</div>
 							</div>
 							<div class="col-md-8 animate-box">
 								<figure>
-									<a href="#"><img class="img-responsive" src="../assets/images/product-4.jpg" alt="product"></a>
+									<a href="#"><img class="img-responsive" src="../assets/images/caja-rosasBlancas.jpg" alt="product"></a>
 								</figure>
 							</div>
 						</div>

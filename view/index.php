@@ -10,10 +10,10 @@
 			<!-- END: header -->
 			<div class="owl-carousel owl-carousel1 owl-carousel-fullwidth fh5co-light-arrow animate-box" data-animate-effect="fadeIn">
 				<div class="item"><a href="" class="image-popup"><img src="assets/images/flores3.jpg" alt="image"></a></div>
-				<div class="item"><a href="" class="image-popup"><img src="assets/images/flores-mama.png" alt="image"></a></div>
-				<div class="item"><a href="" class="image-popup"><img src="assets/images/flores-mama.png" alt="image"></a></div>
-				<div class="item"><a href="" class="image-popup"><img src="assets/images/flores-mama.png" alt="image"></a></div>
-				<div class="item"><a href="" class="image-popup"><img src="assets/images/flores-mama.png" alt="image"></a></div>
+				<div class="item"><a href="" class="image-popup"><img src="assets/images/cajaBlanca2.jpg" alt="image"></a></div>
+				<div class="item"><a href="" class="image-popup"><img src="assets/images/flores3.jpg" alt="image"></a></div>
+				<div class="item"><a href="" class="image-popup"><img src="assets/images/cumpleanos.jpg" alt="image"></a></div>
+				<div class="item"><a href="" class="image-popup"><img src="assets/images/floresColor.jpg" alt="image"></a></div>
 			</div>
 			<div id="fh5co-media-section">
 				<div class="container">
