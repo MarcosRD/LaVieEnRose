@@ -73,8 +73,8 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-							<h3>Products</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+							<h3>Alguno de nuestros productos</h3>
+							<p>Pueden ver uno de los ultimos productos que realizamos.</p>
 						</div>
 					</div>
 					<div class="owl-carousel owl-carousel2">
@@ -102,7 +102,7 @@
 								<i class="icon-shield"></i>
 								<div class="holder-section">
 									<h3>Nosotros</h3>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+									<p>Tenemos el objectivo de ser la primera opción para los eventos que quiera adornar</p>
 								</div>
 							</div>
 						</div>
@@ -111,7 +111,7 @@
 								<i class="icon-strategy"></i>
 								<div class="holder-section">
 									<h3>¿Que hacemos?</h3>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+									<p>Hermosas decoraciones con flores, diseños increibles de madera y una calidad inigualable.</p>
 								</div>
 							</div>
 						</div>
@@ -120,7 +120,7 @@
 								<i class="icon-bike"></i>
 								<div class="holder-section">
 									<h3>¿Porque elegirnos?</h3>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+									<p>Tenemos los mejores precios, diseños actualizados y un excelente trato con nuestros clientes.</p>
 								</div>
 							</div>
 						</div>
