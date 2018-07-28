@@ -16,8 +16,8 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2 float-overlay">
-								<h2>Our Products</h2>
-								<h3>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</h3>
+								<h2>Nuestros Productos</h2>
+								<h3>Contamos con una variedad de diseños.</h3>
 							</div>
 						</div>
 					</div>
@@ -30,20 +30,21 @@
 						<div class="product-inner">
 							<div class="col-md-4 animate-box">
 								<div class="desc">
-									<h3><a href="#">Product Title</a></h3>
-									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<h3><a href="#">Canastas</a></h3>
+									<p>Contamos con una variedad de diseños de canastas, para cualquier tipo de evento.</p>
+									<p>Con excelentes precios</p>
 								</div>
 							</div>
 							<div class="col-md-8 animate-box">
 								<figure>
-									<a href="#"><img class="img-responsive" src="../assets/images/product-2.jpg" alt="product"></a>
+									<a href="#"><img class="img-responsive" src="../assets/images/carrito.jpg" alt="product"></a>
 								</figure>
 							</div>
 						</div>
 						<div class="product-inner">
 							<div class="col-md-4 col-md-push-8 animate-box">
 								<div class="desc">
-									<h3><a href="#">Product Title</a></h3>
+									<h3><a href="#">Canastas</a></h3>
 									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 								</div>
 							</div>
