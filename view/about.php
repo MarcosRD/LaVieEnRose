@@ -40,6 +40,27 @@
 								<p class="animate-box"> <em>Lograr ser una Floristería que se distinga de las demás por su diseño y decoración 100% artesanal; siendo nuestro principal objetivo la satisfacción de nuestros clientes a través de la elaboración, el diseño y la forma de entrega.</em></p>
 							</blockquote>
 						</div>
+						<div class="about-section">
+							<h2 class="animate-box">Horarios</h2>
+							<blockquote class="animate-box">
+								<p class="animate-box"> <strong>Lunes: </strong> 9:00 - 21:00</p>
+							</blockquote>
+							<blockquote>
+								<p class="animate-box"> <strong>Martes: </strong> 9:00 - 21:00</p>
+							</blockquote>
+							<blockquote>
+								<p class="animate-box"> <strong>Miercoles: </strong> 9:00 - 21:00</p>
+							</blockquote>
+							<blockquote>
+								<p class="animate-box"> <strong>Viernes: </strong> 9:00 - 21:00</p>
+							</blockquote>
+							<blockquote>
+								<p class="animate-box"> <strong>Sabado: </strong> 9:00 - 21:00</p>
+							</blockquote>
+							<blockquote>
+								<p class="animate-box"> <strong>Domingo: </strong> CERRADO</p>
+							</blockquote>
+						</div>
 					</div>
 					<div class="col-md-3">
 						<div class="sidebar">
