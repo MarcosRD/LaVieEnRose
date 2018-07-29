@@ -11,7 +11,7 @@
 			<div class="owl-carousel owl-carousel1 owl-carousel-fullwidth fh5co-light-arrow animate-box" data-animate-effect="fadeIn">
 				<div class="item"><a href="" class="image-popup"><img src="assets/images/flores3.jpg" alt="image"></a></div>
 				<div class="item"><a href="" class="image-popup"><img src="assets/images/cajaBlanca2.jpg" alt="image"></a></div>
-				<div class="item"><a href="" class="image-popup"><img src="assets/images/flores3.jpg" alt="image"></a></div>
+				<div class="item"><a href="" class="image-popup"><img src="assets/images/caja-rosasBlancas.jpg" alt="image"></a></div>
 				<div class="item"><a href="" class="image-popup"><img src="assets/images/cumpleanos.jpg" alt="image"></a></div>
 				<div class="item"><a href="" class="image-popup"><img src="assets/images/floresColor.jpg" alt="image"></a></div>
 			</div>
@@ -25,17 +25,17 @@
 					</div>
 					<div class="row">
 						<div class="col-md-7 animate-box">
-							<div class="fh5co-cover" style="background-image: url(assets/images/work-1.jpg);">
+							<div class="fh5co-cover" style="background-image: url(assets/images/cajaRosasBlancas.jpg); background-repeat: no-repeat; background-size: cover;">
 								<div class="desc">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-									<span>Web Design</span>
+									<p>Rosas blancas, para eventos especiales.</p>
+									<span>Caja de regalo.</span>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-5">
 							<div class="fh5co-cover">
 								<div class="fh5co-cover-hero animate-box">
-									<div class="fh5co-cover-thumb" style="background-image: url(assets/images/work-2.jpg);"></div>
+									<div class="fh5co-cover-thumb" style="background-image: url(assets/images/cajaRosasBlancas.jpg); background-repeat: no-repeat; background-size: cover;"></div>
 									<div class="desc-thumb">
 										<p>Far far away, behind the word mountains, far from the</p>
 										<span>Web Design</span>
@@ -43,7 +43,7 @@
 								</div>
 
 								<div class="fh5co-cover-hero animate-box">
-									<div class="fh5co-cover-thumb" style="background-image: url(assets/images/work-3.jpg);"></div>
+									<div class="fh5co-cover-thumb" style="background-image: url(assets/images/cajaRosasRojas.jpg); background-size: cover;"></div>
 									<div class="desc-thumb">
 										<p>Far far away, behind the word mountains, far from the</p>
 										<span>User Experience</span>
