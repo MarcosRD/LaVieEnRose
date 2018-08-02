@@ -35,6 +35,7 @@
         </head>
       ';
     }
+
     public function getMenuIndex(){
       print '
       <header role="banner" id="fh5co-header">
@@ -61,6 +62,7 @@
       </header>
       ';
     }
+
     public function getScriptIndex(){
       print '
         <!-- jQuery -->
@@ -79,6 +81,7 @@
         <script src="assets/js/main.js"></script>
       ';
     }
+
     public function getHead(){
       print '
       <head>
@@ -110,6 +113,7 @@
       </head>
       ';
     }
+
     public function getMenu($pagina){
       if ($pagina == 1) {
         print '
@@ -214,6 +218,7 @@
       }
 
     }
+
     public function getFooter(){
       print '
       <footer>
@@ -234,6 +239,7 @@
       </footer>
         ';
     }
+
     public function getScript(){
       print '
       <!-- jQuery -->
@@ -252,6 +258,7 @@
       <script src="../assets/js/main.js"></script>
       ';
     }
+    
   }
 
 ?>
